@@ -1,0 +1,649 @@
+C:\Users\ELEKSE-BT\source\repos\Elekse\Elekse.NetProject\bin\ApplicationInsights.config
+C:\Users\ELEKSE-BT\source\repos\Elekse\Elekse.NetProject\bin\Elekse.NetProject.dll.config
+C:\Users\ELEKSE-BT\source\repos\Elekse\Elekse.NetProject\bin\Elekse.NetProject.dll
+C:\Users\ELEKSE-BT\source\repos\Elekse\Elekse.NetProject\bin\Elekse.NetProject.pdb
+C:\Users\ELEKSE-BT\source\repos\Elekse\Elekse.NetProject\bin\roslyn\csc.exe
+C:\Users\ELEKSE-BT\source\repos\Elekse\Elekse.NetProject\bin\roslyn\csc.exe.config
+C:\Users\ELEKSE-BT\source\repos\Elekse\Elekse.NetProject\bin\roslyn\csc.rsp
+C:\Users\ELEKSE-BT\source\repos\Elekse\Elekse.NetProject\bin\roslyn\csi.exe
+C:\Users\ELEKSE-BT\source\repos\Elekse\Elekse.NetProject\bin\roslyn\csi.exe.config
+C:\Users\ELEKSE-BT\source\repos\Elekse\Elekse.NetProject\bin\roslyn\csi.rsp
+C:\Users\ELEKSE-BT\source\repos\Elekse\Elekse.NetProject\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ELEKSE-BT\source\repos\Elekse\Elekse.NetProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ELEKSE-BT\source\repos\Elekse\Elekse.NetProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ELEKSE-BT\source\repos\Elekse\Elekse.NetProject\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ELEKSE-BT\source\repos\Elekse\Elekse.NetProject\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ELEKSE-BT\source\repos\Elekse\Elekse.NetProject\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ELEKSE-BT\source\repos\Elekse\Elekse.NetProject\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ELEKSE-BT\source\repos\Elekse\Elekse.NetProject\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ELEKSE-BT\source\repos\Elekse\Elekse.NetProject\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ELEKSE-BT\source\repos\Elekse\Elekse.NetProject\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\ELEKSE-BT\source\repos\Elekse\Elekse.NetProject\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ELEKSE-BT\source\repos\Elekse\Elekse.NetProject\bin\roslyn\System.AppContext.dll
+C:\Users\ELEKSE-BT\source\repos\Elekse\Elekse.NetProject\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ELEKSE-BT\source\repos\Elekse\Elekse.NetProject\bin\roslyn\System.Console.dll
+C:\Users\ELEKSE-BT\source\repos\Elekse\Elekse.NetProject\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ELEKSE-BT\source\repos\Elekse\Elekse.NetProject\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ELEKSE-BT\source\repos\Elekse\Elekse.NetProject\bin\roslyn\System.IO.Compression.dll
+C:\Users\ELEKSE-BT\source\repos\Elekse\Elekse.NetProject\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ELEKSE-BT\source\repos\Elekse\Elekse.NetProject\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ELEKSE-BT\source\repos\Elekse\Elekse.NetProject\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\ELEKSE-BT\source\repos\Elekse\Elekse.NetProject\bin\roslyn\System.IO.Pipes.dll
+C:\Users\ELEKSE-BT\source\repos\Elekse\Elekse.NetProject\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ELEKSE-BT\source\repos\Elekse\Elekse.NetProject\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\ELEKSE-BT\source\repos\Elekse\Elekse.NetProject\bin\roslyn\System.Security.Claims.dll
+C:\Users\ELEKSE-BT\source\repos\Elekse\Elekse.NetProject\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\ELEKSE-BT\source\repos\Elekse\Elekse.NetProject\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\ELEKSE-BT\source\repos\Elekse\Elekse.NetProject\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\ELEKSE-BT\source\repos\Elekse\Elekse.NetProject\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ELEKSE-BT\source\repos\Elekse\Elekse.NetProject\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\ELEKSE-BT\source\repos\Elekse\Elekse.NetProject\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ELEKSE-BT\source\repos\Elekse\Elekse.NetProject\bin\roslyn\System.ValueTuple.dll
+C:\Users\ELEKSE-BT\source\repos\Elekse\Elekse.NetProject\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\ELEKSE-BT\source\repos\Elekse\Elekse.NetProject\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\ELEKSE-BT\source\repos\Elekse\Elekse.NetProject\bin\roslyn\System.Xml.XPath.dll
+C:\Users\ELEKSE-BT\source\repos\Elekse\Elekse.NetProject\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\ELEKSE-BT\source\repos\Elekse\Elekse.NetProject\bin\roslyn\vbc.exe
+C:\Users\ELEKSE-BT\source\repos\Elekse\Elekse.NetProject\bin\roslyn\vbc.exe.config
+C:\Users\ELEKSE-BT\source\repos\Elekse\Elekse.NetProject\bin\roslyn\vbc.rsp
+C:\Users\ELEKSE-BT\source\repos\Elekse\Elekse.NetProject\bin\roslyn\VBCSCompiler.exe
+C:\Users\ELEKSE-BT\source\repos\Elekse\Elekse.NetProject\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ELEKSE-BT\source\repos\Elekse\Elekse.NetProject\bin\Antlr3.Runtime.dll
+C:\Users\ELEKSE-BT\source\repos\Elekse\Elekse.NetProject\bin\Elekse.Business.dll
+C:\Users\ELEKSE-BT\source\repos\Elekse\Elekse.NetProject\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\ELEKSE-BT\source\repos\Elekse\Elekse.NetProject\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\ELEKSE-BT\source\repos\Elekse\Elekse.NetProject\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\ELEKSE-BT\source\repos\Elekse\Elekse.NetProject\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\ELEKSE-BT\source\repos\Elekse\Elekse.NetProject\bin\Microsoft.AI.Web.dll
+C:\Users\ELEKSE-BT\source\repos\Elekse\Elekse.NetProject\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\ELEKSE-BT\source\repos\Elekse\Elekse.NetProject\bin\Microsoft.ApplicationInsights.dll
+C:\Users\ELEKSE-BT\source\repos\Elekse\Elekse.NetProject\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\ELEKSE-BT\source\repos\Elekse\Elekse.NetProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ELEKSE-BT\source\repos\Elekse\Elekse.NetProject\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ELEKSE-BT\source\repos\Elekse\Elekse.NetProject\bin\Newtonsoft.Json.dll
+C:\Users\ELEKSE-BT\source\repos\Elekse\Elekse.NetProject\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ELEKSE-BT\source\repos\Elekse\Elekse.NetProject\bin\System.Web.Helpers.dll
+C:\Users\ELEKSE-BT\source\repos\Elekse\Elekse.NetProject\bin\System.Web.Mvc.dll
+C:\Users\ELEKSE-BT\source\repos\Elekse\Elekse.NetProject\bin\System.Web.Optimization.dll
+C:\Users\ELEKSE-BT\source\repos\Elekse\Elekse.NetProject\bin\System.Web.Razor.dll
+C:\Users\ELEKSE-BT\source\repos\Elekse\Elekse.NetProject\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ELEKSE-BT\source\repos\Elekse\Elekse.NetProject\bin\System.Web.WebPages.dll
+C:\Users\ELEKSE-BT\source\repos\Elekse\Elekse.NetProject\bin\System.Web.WebPages.Razor.dll
+C:\Users\ELEKSE-BT\source\repos\Elekse\Elekse.NetProject\bin\WebGrease.dll
+C:\Users\ELEKSE-BT\source\repos\Elekse\Elekse.NetProject\bin\Elekse.Business.pdb
+C:\Users\ELEKSE-BT\source\repos\Elekse\Elekse.NetProject\bin\System.Web.Helpers.xml
+C:\Users\ELEKSE-BT\source\repos\Elekse\Elekse.NetProject\bin\System.Web.Mvc.xml
+C:\Users\ELEKSE-BT\source\repos\Elekse\Elekse.NetProject\bin\System.Web.Optimization.xml
+C:\Users\ELEKSE-BT\source\repos\Elekse\Elekse.NetProject\bin\System.Web.Razor.xml
+C:\Users\ELEKSE-BT\source\repos\Elekse\Elekse.NetProject\bin\System.Web.WebPages.xml
+C:\Users\ELEKSE-BT\source\repos\Elekse\Elekse.NetProject\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ELEKSE-BT\source\repos\Elekse\Elekse.NetProject\bin\System.Web.WebPages.Razor.xml
+C:\Users\ELEKSE-BT\source\repos\Elekse\Elekse.NetProject\bin\Newtonsoft.Json.xml
+C:\Users\ELEKSE-BT\source\repos\Elekse\Elekse.NetProject\bin\Antlr3.Runtime.pdb
+C:\Users\ELEKSE-BT\source\repos\Elekse\Elekse.NetProject\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\ELEKSE-BT\source\repos\Elekse\Elekse.NetProject\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\ELEKSE-BT\source\repos\Elekse\Elekse.NetProject\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\ELEKSE-BT\source\repos\Elekse\Elekse.NetProject\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\ELEKSE-BT\source\repos\Elekse\Elekse.NetProject\bin\Microsoft.AI.Web.xml
+C:\Users\ELEKSE-BT\source\repos\Elekse\Elekse.NetProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ELEKSE-BT\source\repos\Elekse\Elekse.NetProject\obj\Debug\Elekse.NetProject.csprojAssemblyReference.cache
+C:\Users\ELEKSE-BT\source\repos\Elekse\Elekse.NetProject\obj\Debug\Elekse.NetProject.csproj.CoreCompileInputs.cache
+C:\Users\ELEKSE-BT\source\repos\Elekse\Elekse.NetProject\obj\Debug\Elekse.NetProject.csproj.CopyComplete
+C:\Users\ELEKSE-BT\source\repos\Elekse\Elekse.NetProject\obj\Debug\Elekse.NetProject.dll
+C:\Users\ELEKSE-BT\source\repos\Elekse\Elekse.NetProject\obj\Debug\Elekse.NetProject.pdb
+D:\TFS\ELEKSE\Elekse (SanalPos Test Projesi)\Elekse.NetProject\bin\ApplicationInsights.config
+D:\TFS\ELEKSE\Elekse (SanalPos Test Projesi)\Elekse.NetProject\bin\Elekse.NetProject.dll.config
+D:\TFS\ELEKSE\Elekse (SanalPos Test Projesi)\Elekse.NetProject\bin\Elekse.NetProject.dll
+D:\TFS\ELEKSE\Elekse (SanalPos Test Projesi)\Elekse.NetProject\bin\Elekse.NetProject.pdb
+D:\TFS\ELEKSE\Elekse (SanalPos Test Projesi)\Elekse.NetProject\bin\roslyn\csc.exe
+D:\TFS\ELEKSE\Elekse (SanalPos Test Projesi)\Elekse.NetProject\bin\roslyn\csc.exe.config
+D:\TFS\ELEKSE\Elekse (SanalPos Test Projesi)\Elekse.NetProject\bin\roslyn\csc.rsp
+D:\TFS\ELEKSE\Elekse (SanalPos Test Projesi)\Elekse.NetProject\bin\roslyn\csi.exe
+D:\TFS\ELEKSE\Elekse (SanalPos Test Projesi)\Elekse.NetProject\bin\roslyn\csi.exe.config
+D:\TFS\ELEKSE\Elekse (SanalPos Test Projesi)\Elekse.NetProject\bin\roslyn\csi.rsp
+D:\TFS\ELEKSE\Elekse (SanalPos Test Projesi)\Elekse.NetProject\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\TFS\ELEKSE\Elekse (SanalPos Test Projesi)\Elekse.NetProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\TFS\ELEKSE\Elekse (SanalPos Test Projesi)\Elekse.NetProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\TFS\ELEKSE\Elekse (SanalPos Test Projesi)\Elekse.NetProject\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\TFS\ELEKSE\Elekse (SanalPos Test Projesi)\Elekse.NetProject\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\TFS\ELEKSE\Elekse (SanalPos Test Projesi)\Elekse.NetProject\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\TFS\ELEKSE\Elekse (SanalPos Test Projesi)\Elekse.NetProject\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\TFS\ELEKSE\Elekse (SanalPos Test Projesi)\Elekse.NetProject\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\TFS\ELEKSE\Elekse (SanalPos Test Projesi)\Elekse.NetProject\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\TFS\ELEKSE\Elekse (SanalPos Test Projesi)\Elekse.NetProject\bin\roslyn\Microsoft.Managed.Core.targets
+D:\TFS\ELEKSE\Elekse (SanalPos Test Projesi)\Elekse.NetProject\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\TFS\ELEKSE\Elekse (SanalPos Test Projesi)\Elekse.NetProject\bin\roslyn\System.AppContext.dll
+D:\TFS\ELEKSE\Elekse (SanalPos Test Projesi)\Elekse.NetProject\bin\roslyn\System.Collections.Immutable.dll
+D:\TFS\ELEKSE\Elekse (SanalPos Test Projesi)\Elekse.NetProject\bin\roslyn\System.Console.dll
+D:\TFS\ELEKSE\Elekse (SanalPos Test Projesi)\Elekse.NetProject\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\TFS\ELEKSE\Elekse (SanalPos Test Projesi)\Elekse.NetProject\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\TFS\ELEKSE\Elekse (SanalPos Test Projesi)\Elekse.NetProject\bin\roslyn\System.IO.Compression.dll
+D:\TFS\ELEKSE\Elekse (SanalPos Test Projesi)\Elekse.NetProject\bin\roslyn\System.IO.FileSystem.dll
+D:\TFS\ELEKSE\Elekse (SanalPos Test Projesi)\Elekse.NetProject\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\TFS\ELEKSE\Elekse (SanalPos Test Projesi)\Elekse.NetProject\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\TFS\ELEKSE\Elekse (SanalPos Test Projesi)\Elekse.NetProject\bin\roslyn\System.IO.Pipes.dll
+D:\TFS\ELEKSE\Elekse (SanalPos Test Projesi)\Elekse.NetProject\bin\roslyn\System.Reflection.Metadata.dll
+D:\TFS\ELEKSE\Elekse (SanalPos Test Projesi)\Elekse.NetProject\bin\roslyn\System.Security.AccessControl.dll
+D:\TFS\ELEKSE\Elekse (SanalPos Test Projesi)\Elekse.NetProject\bin\roslyn\System.Security.Claims.dll
+D:\TFS\ELEKSE\Elekse (SanalPos Test Projesi)\Elekse.NetProject\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\TFS\ELEKSE\Elekse (SanalPos Test Projesi)\Elekse.NetProject\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\TFS\ELEKSE\Elekse (SanalPos Test Projesi)\Elekse.NetProject\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\TFS\ELEKSE\Elekse (SanalPos Test Projesi)\Elekse.NetProject\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\TFS\ELEKSE\Elekse (SanalPos Test Projesi)\Elekse.NetProject\bin\roslyn\System.Security.Principal.Windows.dll
+D:\TFS\ELEKSE\Elekse (SanalPos Test Projesi)\Elekse.NetProject\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\TFS\ELEKSE\Elekse (SanalPos Test Projesi)\Elekse.NetProject\bin\roslyn\System.ValueTuple.dll
+D:\TFS\ELEKSE\Elekse (SanalPos Test Projesi)\Elekse.NetProject\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\TFS\ELEKSE\Elekse (SanalPos Test Projesi)\Elekse.NetProject\bin\roslyn\System.Xml.XmlDocument.dll
+D:\TFS\ELEKSE\Elekse (SanalPos Test Projesi)\Elekse.NetProject\bin\roslyn\System.Xml.XPath.dll
+D:\TFS\ELEKSE\Elekse (SanalPos Test Projesi)\Elekse.NetProject\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\TFS\ELEKSE\Elekse (SanalPos Test Projesi)\Elekse.NetProject\bin\roslyn\vbc.exe
+D:\TFS\ELEKSE\Elekse (SanalPos Test Projesi)\Elekse.NetProject\bin\roslyn\vbc.exe.config
+D:\TFS\ELEKSE\Elekse (SanalPos Test Projesi)\Elekse.NetProject\bin\roslyn\vbc.rsp
+D:\TFS\ELEKSE\Elekse (SanalPos Test Projesi)\Elekse.NetProject\bin\roslyn\VBCSCompiler.exe
+D:\TFS\ELEKSE\Elekse (SanalPos Test Projesi)\Elekse.NetProject\bin\roslyn\VBCSCompiler.exe.config
+D:\TFS\ELEKSE\Elekse (SanalPos Test Projesi)\Elekse.NetProject\bin\Antlr3.Runtime.dll
+D:\TFS\ELEKSE\Elekse (SanalPos Test Projesi)\Elekse.NetProject\bin\Elekse.Business.dll
+D:\TFS\ELEKSE\Elekse (SanalPos Test Projesi)\Elekse.NetProject\bin\Microsoft.AI.Agent.Intercept.dll
+D:\TFS\ELEKSE\Elekse (SanalPos Test Projesi)\Elekse.NetProject\bin\Microsoft.AI.DependencyCollector.dll
+D:\TFS\ELEKSE\Elekse (SanalPos Test Projesi)\Elekse.NetProject\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\TFS\ELEKSE\Elekse (SanalPos Test Projesi)\Elekse.NetProject\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\TFS\ELEKSE\Elekse (SanalPos Test Projesi)\Elekse.NetProject\bin\Microsoft.AI.Web.dll
+D:\TFS\ELEKSE\Elekse (SanalPos Test Projesi)\Elekse.NetProject\bin\Microsoft.AI.WindowsServer.dll
+D:\TFS\ELEKSE\Elekse (SanalPos Test Projesi)\Elekse.NetProject\bin\Microsoft.ApplicationInsights.dll
+D:\TFS\ELEKSE\Elekse (SanalPos Test Projesi)\Elekse.NetProject\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+D:\TFS\ELEKSE\Elekse (SanalPos Test Projesi)\Elekse.NetProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\TFS\ELEKSE\Elekse (SanalPos Test Projesi)\Elekse.NetProject\bin\Microsoft.Web.Infrastructure.dll
+D:\TFS\ELEKSE\Elekse (SanalPos Test Projesi)\Elekse.NetProject\bin\Newtonsoft.Json.dll
+D:\TFS\ELEKSE\Elekse (SanalPos Test Projesi)\Elekse.NetProject\bin\System.Diagnostics.DiagnosticSource.dll
+D:\TFS\ELEKSE\Elekse (SanalPos Test Projesi)\Elekse.NetProject\bin\System.Web.Helpers.dll
+D:\TFS\ELEKSE\Elekse (SanalPos Test Projesi)\Elekse.NetProject\bin\System.Web.Mvc.dll
+D:\TFS\ELEKSE\Elekse (SanalPos Test Projesi)\Elekse.NetProject\bin\System.Web.Optimization.dll
+D:\TFS\ELEKSE\Elekse (SanalPos Test Projesi)\Elekse.NetProject\bin\System.Web.Razor.dll
+D:\TFS\ELEKSE\Elekse (SanalPos Test Projesi)\Elekse.NetProject\bin\System.Web.WebPages.Deployment.dll
+D:\TFS\ELEKSE\Elekse (SanalPos Test Projesi)\Elekse.NetProject\bin\System.Web.WebPages.dll
+D:\TFS\ELEKSE\Elekse (SanalPos Test Projesi)\Elekse.NetProject\bin\System.Web.WebPages.Razor.dll
+D:\TFS\ELEKSE\Elekse (SanalPos Test Projesi)\Elekse.NetProject\bin\WebGrease.dll
+D:\TFS\ELEKSE\Elekse (SanalPos Test Projesi)\Elekse.NetProject\bin\Elekse.Business.pdb
+D:\TFS\ELEKSE\Elekse (SanalPos Test Projesi)\Elekse.NetProject\bin\System.Web.Helpers.xml
+D:\TFS\ELEKSE\Elekse (SanalPos Test Projesi)\Elekse.NetProject\bin\System.Web.Mvc.xml
+D:\TFS\ELEKSE\Elekse (SanalPos Test Projesi)\Elekse.NetProject\bin\System.Web.Optimization.xml
+D:\TFS\ELEKSE\Elekse (SanalPos Test Projesi)\Elekse.NetProject\bin\System.Web.Razor.xml
+D:\TFS\ELEKSE\Elekse (SanalPos Test Projesi)\Elekse.NetProject\bin\System.Web.WebPages.xml
+D:\TFS\ELEKSE\Elekse (SanalPos Test Projesi)\Elekse.NetProject\bin\System.Web.WebPages.Deployment.xml
+D:\TFS\ELEKSE\Elekse (SanalPos Test Projesi)\Elekse.NetProject\bin\System.Web.WebPages.Razor.xml
+D:\TFS\ELEKSE\Elekse (SanalPos Test Projesi)\Elekse.NetProject\bin\Newtonsoft.Json.xml
+D:\TFS\ELEKSE\Elekse (SanalPos Test Projesi)\Elekse.NetProject\bin\Antlr3.Runtime.pdb
+D:\TFS\ELEKSE\Elekse (SanalPos Test Projesi)\Elekse.NetProject\bin\System.Diagnostics.DiagnosticSource.xml
+D:\TFS\ELEKSE\Elekse (SanalPos Test Projesi)\Elekse.NetProject\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+D:\TFS\ELEKSE\Elekse (SanalPos Test Projesi)\Elekse.NetProject\bin\Microsoft.AI.DependencyCollector.xml
+D:\TFS\ELEKSE\Elekse (SanalPos Test Projesi)\Elekse.NetProject\bin\Microsoft.AI.WindowsServer.xml
+D:\TFS\ELEKSE\Elekse (SanalPos Test Projesi)\Elekse.NetProject\bin\Microsoft.AI.Web.xml
+D:\TFS\ELEKSE\Elekse (SanalPos Test Projesi)\Elekse.NetProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\TFS\ELEKSE\Elekse (SanalPos Test Projesi)\Elekse.NetProject\obj\Debug\Elekse.NetProject.csprojAssemblyReference.cache
+D:\TFS\ELEKSE\Elekse (SanalPos Test Projesi)\Elekse.NetProject\obj\Debug\Elekse.NetProject.csproj.CoreCompileInputs.cache
+D:\TFS\ELEKSE\Elekse (SanalPos Test Projesi)\Elekse.NetProject\obj\Debug\Elekse.NetProject.csproj.CopyComplete
+D:\TFS\ELEKSE\Elekse (SanalPos Test Projesi)\Elekse.NetProject\obj\Debug\Elekse.NetProject.dll
+D:\TFS\ELEKSE\Elekse (SanalPos Test Projesi)\Elekse.NetProject\obj\Debug\Elekse.NetProject.pdb
+D:\Elekse (SanalPos Test Projesi)\Elekse.NetProject\bin\ApplicationInsights.config
+D:\Elekse (SanalPos Test Projesi)\Elekse.NetProject\bin\Elekse.NetProject.dll.config
+D:\Elekse (SanalPos Test Projesi)\Elekse.NetProject\bin\Elekse.NetProject.dll
+D:\Elekse (SanalPos Test Projesi)\Elekse.NetProject\bin\Elekse.NetProject.pdb
+D:\Elekse (SanalPos Test Projesi)\Elekse.NetProject\bin\roslyn\csc.exe
+D:\Elekse (SanalPos Test Projesi)\Elekse.NetProject\bin\roslyn\csc.exe.config
+D:\Elekse (SanalPos Test Projesi)\Elekse.NetProject\bin\roslyn\csc.rsp
+D:\Elekse (SanalPos Test Projesi)\Elekse.NetProject\bin\roslyn\csi.exe
+D:\Elekse (SanalPos Test Projesi)\Elekse.NetProject\bin\roslyn\csi.exe.config
+D:\Elekse (SanalPos Test Projesi)\Elekse.NetProject\bin\roslyn\csi.rsp
+D:\Elekse (SanalPos Test Projesi)\Elekse.NetProject\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Elekse (SanalPos Test Projesi)\Elekse.NetProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Elekse (SanalPos Test Projesi)\Elekse.NetProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Elekse (SanalPos Test Projesi)\Elekse.NetProject\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Elekse (SanalPos Test Projesi)\Elekse.NetProject\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Elekse (SanalPos Test Projesi)\Elekse.NetProject\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Elekse (SanalPos Test Projesi)\Elekse.NetProject\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Elekse (SanalPos Test Projesi)\Elekse.NetProject\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Elekse (SanalPos Test Projesi)\Elekse.NetProject\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Elekse (SanalPos Test Projesi)\Elekse.NetProject\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Elekse (SanalPos Test Projesi)\Elekse.NetProject\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Elekse (SanalPos Test Projesi)\Elekse.NetProject\bin\roslyn\System.AppContext.dll
+D:\Elekse (SanalPos Test Projesi)\Elekse.NetProject\bin\roslyn\System.Collections.Immutable.dll
+D:\Elekse (SanalPos Test Projesi)\Elekse.NetProject\bin\roslyn\System.Console.dll
+D:\Elekse (SanalPos Test Projesi)\Elekse.NetProject\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Elekse (SanalPos Test Projesi)\Elekse.NetProject\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Elekse (SanalPos Test Projesi)\Elekse.NetProject\bin\roslyn\System.IO.Compression.dll
+D:\Elekse (SanalPos Test Projesi)\Elekse.NetProject\bin\roslyn\System.IO.FileSystem.dll
+D:\Elekse (SanalPos Test Projesi)\Elekse.NetProject\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Elekse (SanalPos Test Projesi)\Elekse.NetProject\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\Elekse (SanalPos Test Projesi)\Elekse.NetProject\bin\roslyn\System.IO.Pipes.dll
+D:\Elekse (SanalPos Test Projesi)\Elekse.NetProject\bin\roslyn\System.Reflection.Metadata.dll
+D:\Elekse (SanalPos Test Projesi)\Elekse.NetProject\bin\roslyn\System.Security.AccessControl.dll
+D:\Elekse (SanalPos Test Projesi)\Elekse.NetProject\bin\roslyn\System.Security.Claims.dll
+D:\Elekse (SanalPos Test Projesi)\Elekse.NetProject\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Elekse (SanalPos Test Projesi)\Elekse.NetProject\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Elekse (SanalPos Test Projesi)\Elekse.NetProject\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Elekse (SanalPos Test Projesi)\Elekse.NetProject\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Elekse (SanalPos Test Projesi)\Elekse.NetProject\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Elekse (SanalPos Test Projesi)\Elekse.NetProject\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Elekse (SanalPos Test Projesi)\Elekse.NetProject\bin\roslyn\System.ValueTuple.dll
+D:\Elekse (SanalPos Test Projesi)\Elekse.NetProject\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Elekse (SanalPos Test Projesi)\Elekse.NetProject\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Elekse (SanalPos Test Projesi)\Elekse.NetProject\bin\roslyn\System.Xml.XPath.dll
+D:\Elekse (SanalPos Test Projesi)\Elekse.NetProject\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Elekse (SanalPos Test Projesi)\Elekse.NetProject\bin\roslyn\vbc.exe
+D:\Elekse (SanalPos Test Projesi)\Elekse.NetProject\bin\roslyn\vbc.exe.config
+D:\Elekse (SanalPos Test Projesi)\Elekse.NetProject\bin\roslyn\vbc.rsp
+D:\Elekse (SanalPos Test Projesi)\Elekse.NetProject\bin\roslyn\VBCSCompiler.exe
+D:\Elekse (SanalPos Test Projesi)\Elekse.NetProject\bin\roslyn\VBCSCompiler.exe.config
+D:\Elekse (SanalPos Test Projesi)\Elekse.NetProject\bin\Antlr3.Runtime.dll
+D:\Elekse (SanalPos Test Projesi)\Elekse.NetProject\bin\Elekse.Business.dll
+D:\Elekse (SanalPos Test Projesi)\Elekse.NetProject\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Elekse (SanalPos Test Projesi)\Elekse.NetProject\bin\Microsoft.AI.DependencyCollector.dll
+D:\Elekse (SanalPos Test Projesi)\Elekse.NetProject\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Elekse (SanalPos Test Projesi)\Elekse.NetProject\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Elekse (SanalPos Test Projesi)\Elekse.NetProject\bin\Microsoft.AI.Web.dll
+D:\Elekse (SanalPos Test Projesi)\Elekse.NetProject\bin\Microsoft.AI.WindowsServer.dll
+D:\Elekse (SanalPos Test Projesi)\Elekse.NetProject\bin\Microsoft.ApplicationInsights.dll
+D:\Elekse (SanalPos Test Projesi)\Elekse.NetProject\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+D:\Elekse (SanalPos Test Projesi)\Elekse.NetProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Elekse (SanalPos Test Projesi)\Elekse.NetProject\bin\Microsoft.Web.Infrastructure.dll
+D:\Elekse (SanalPos Test Projesi)\Elekse.NetProject\bin\Newtonsoft.Json.dll
+D:\Elekse (SanalPos Test Projesi)\Elekse.NetProject\bin\System.Diagnostics.DiagnosticSource.dll
+D:\Elekse (SanalPos Test Projesi)\Elekse.NetProject\bin\System.Web.Helpers.dll
+D:\Elekse (SanalPos Test Projesi)\Elekse.NetProject\bin\System.Web.Mvc.dll
+D:\Elekse (SanalPos Test Projesi)\Elekse.NetProject\bin\System.Web.Optimization.dll
+D:\Elekse (SanalPos Test Projesi)\Elekse.NetProject\bin\System.Web.Razor.dll
+D:\Elekse (SanalPos Test Projesi)\Elekse.NetProject\bin\System.Web.WebPages.Deployment.dll
+D:\Elekse (SanalPos Test Projesi)\Elekse.NetProject\bin\System.Web.WebPages.dll
+D:\Elekse (SanalPos Test Projesi)\Elekse.NetProject\bin\System.Web.WebPages.Razor.dll
+D:\Elekse (SanalPos Test Projesi)\Elekse.NetProject\bin\WebGrease.dll
+D:\Elekse (SanalPos Test Projesi)\Elekse.NetProject\bin\Elekse.Business.pdb
+D:\Elekse (SanalPos Test Projesi)\Elekse.NetProject\bin\System.Web.Helpers.xml
+D:\Elekse (SanalPos Test Projesi)\Elekse.NetProject\bin\System.Web.Mvc.xml
+D:\Elekse (SanalPos Test Projesi)\Elekse.NetProject\bin\System.Web.Optimization.xml
+D:\Elekse (SanalPos Test Projesi)\Elekse.NetProject\bin\System.Web.Razor.xml
+D:\Elekse (SanalPos Test Projesi)\Elekse.NetProject\bin\System.Web.WebPages.xml
+D:\Elekse (SanalPos Test Projesi)\Elekse.NetProject\bin\System.Web.WebPages.Deployment.xml
+D:\Elekse (SanalPos Test Projesi)\Elekse.NetProject\bin\System.Web.WebPages.Razor.xml
+D:\Elekse (SanalPos Test Projesi)\Elekse.NetProject\bin\Newtonsoft.Json.xml
+D:\Elekse (SanalPos Test Projesi)\Elekse.NetProject\bin\Antlr3.Runtime.pdb
+D:\Elekse (SanalPos Test Projesi)\Elekse.NetProject\bin\System.Diagnostics.DiagnosticSource.xml
+D:\Elekse (SanalPos Test Projesi)\Elekse.NetProject\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+D:\Elekse (SanalPos Test Projesi)\Elekse.NetProject\bin\Microsoft.AI.DependencyCollector.xml
+D:\Elekse (SanalPos Test Projesi)\Elekse.NetProject\bin\Microsoft.AI.WindowsServer.xml
+D:\Elekse (SanalPos Test Projesi)\Elekse.NetProject\bin\Microsoft.AI.Web.xml
+D:\Elekse (SanalPos Test Projesi)\Elekse.NetProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Elekse (SanalPos Test Projesi)\Elekse.NetProject\obj\Debug\Elekse.NetProject.csprojAssemblyReference.cache
+D:\Elekse (SanalPos Test Projesi)\Elekse.NetProject\obj\Debug\Elekse.NetProject.csproj.CoreCompileInputs.cache
+D:\Elekse (SanalPos Test Projesi)\Elekse.NetProject\obj\Debug\Elekse.NetProject.csproj.CopyComplete
+D:\Elekse (SanalPos Test Projesi)\Elekse.NetProject\obj\Debug\Elekse.NetProject.dll
+D:\Elekse (SanalPos Test Projesi)\Elekse.NetProject\obj\Debug\Elekse.NetProject.pdb
+C:\Users\ELEKSE-BT\Desktop\esnekpostest\Elekse.NetProject\bin\ApplicationInsights.config
+C:\Users\ELEKSE-BT\Desktop\esnekpostest\Elekse.NetProject\bin\Elekse.NetProject.dll.config
+C:\Users\ELEKSE-BT\Desktop\esnekpostest\Elekse.NetProject\bin\Elekse.NetProject.dll
+C:\Users\ELEKSE-BT\Desktop\esnekpostest\Elekse.NetProject\bin\Elekse.NetProject.pdb
+C:\Users\ELEKSE-BT\Desktop\esnekpostest\Elekse.NetProject\bin\roslyn\csc.exe
+C:\Users\ELEKSE-BT\Desktop\esnekpostest\Elekse.NetProject\bin\roslyn\csc.exe.config
+C:\Users\ELEKSE-BT\Desktop\esnekpostest\Elekse.NetProject\bin\roslyn\csc.rsp
+C:\Users\ELEKSE-BT\Desktop\esnekpostest\Elekse.NetProject\bin\roslyn\csi.exe
+C:\Users\ELEKSE-BT\Desktop\esnekpostest\Elekse.NetProject\bin\roslyn\csi.exe.config
+C:\Users\ELEKSE-BT\Desktop\esnekpostest\Elekse.NetProject\bin\roslyn\csi.rsp
+C:\Users\ELEKSE-BT\Desktop\esnekpostest\Elekse.NetProject\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ELEKSE-BT\Desktop\esnekpostest\Elekse.NetProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ELEKSE-BT\Desktop\esnekpostest\Elekse.NetProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ELEKSE-BT\Desktop\esnekpostest\Elekse.NetProject\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ELEKSE-BT\Desktop\esnekpostest\Elekse.NetProject\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ELEKSE-BT\Desktop\esnekpostest\Elekse.NetProject\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ELEKSE-BT\Desktop\esnekpostest\Elekse.NetProject\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ELEKSE-BT\Desktop\esnekpostest\Elekse.NetProject\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ELEKSE-BT\Desktop\esnekpostest\Elekse.NetProject\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ELEKSE-BT\Desktop\esnekpostest\Elekse.NetProject\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\ELEKSE-BT\Desktop\esnekpostest\Elekse.NetProject\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ELEKSE-BT\Desktop\esnekpostest\Elekse.NetProject\bin\roslyn\System.AppContext.dll
+C:\Users\ELEKSE-BT\Desktop\esnekpostest\Elekse.NetProject\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ELEKSE-BT\Desktop\esnekpostest\Elekse.NetProject\bin\roslyn\System.Console.dll
+C:\Users\ELEKSE-BT\Desktop\esnekpostest\Elekse.NetProject\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ELEKSE-BT\Desktop\esnekpostest\Elekse.NetProject\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ELEKSE-BT\Desktop\esnekpostest\Elekse.NetProject\bin\roslyn\System.IO.Compression.dll
+C:\Users\ELEKSE-BT\Desktop\esnekpostest\Elekse.NetProject\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ELEKSE-BT\Desktop\esnekpostest\Elekse.NetProject\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ELEKSE-BT\Desktop\esnekpostest\Elekse.NetProject\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\ELEKSE-BT\Desktop\esnekpostest\Elekse.NetProject\bin\roslyn\System.IO.Pipes.dll
+C:\Users\ELEKSE-BT\Desktop\esnekpostest\Elekse.NetProject\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ELEKSE-BT\Desktop\esnekpostest\Elekse.NetProject\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\ELEKSE-BT\Desktop\esnekpostest\Elekse.NetProject\bin\roslyn\System.Security.Claims.dll
+C:\Users\ELEKSE-BT\Desktop\esnekpostest\Elekse.NetProject\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\ELEKSE-BT\Desktop\esnekpostest\Elekse.NetProject\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\ELEKSE-BT\Desktop\esnekpostest\Elekse.NetProject\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\ELEKSE-BT\Desktop\esnekpostest\Elekse.NetProject\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ELEKSE-BT\Desktop\esnekpostest\Elekse.NetProject\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\ELEKSE-BT\Desktop\esnekpostest\Elekse.NetProject\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ELEKSE-BT\Desktop\esnekpostest\Elekse.NetProject\bin\roslyn\System.ValueTuple.dll
+C:\Users\ELEKSE-BT\Desktop\esnekpostest\Elekse.NetProject\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\ELEKSE-BT\Desktop\esnekpostest\Elekse.NetProject\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\ELEKSE-BT\Desktop\esnekpostest\Elekse.NetProject\bin\roslyn\System.Xml.XPath.dll
+C:\Users\ELEKSE-BT\Desktop\esnekpostest\Elekse.NetProject\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\ELEKSE-BT\Desktop\esnekpostest\Elekse.NetProject\bin\roslyn\vbc.exe
+C:\Users\ELEKSE-BT\Desktop\esnekpostest\Elekse.NetProject\bin\roslyn\vbc.exe.config
+C:\Users\ELEKSE-BT\Desktop\esnekpostest\Elekse.NetProject\bin\roslyn\vbc.rsp
+C:\Users\ELEKSE-BT\Desktop\esnekpostest\Elekse.NetProject\bin\roslyn\VBCSCompiler.exe
+C:\Users\ELEKSE-BT\Desktop\esnekpostest\Elekse.NetProject\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ELEKSE-BT\Desktop\esnekpostest\Elekse.NetProject\bin\Antlr3.Runtime.dll
+C:\Users\ELEKSE-BT\Desktop\esnekpostest\Elekse.NetProject\bin\Elekse.Business.dll
+C:\Users\ELEKSE-BT\Desktop\esnekpostest\Elekse.NetProject\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\ELEKSE-BT\Desktop\esnekpostest\Elekse.NetProject\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\ELEKSE-BT\Desktop\esnekpostest\Elekse.NetProject\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\ELEKSE-BT\Desktop\esnekpostest\Elekse.NetProject\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\ELEKSE-BT\Desktop\esnekpostest\Elekse.NetProject\bin\Microsoft.AI.Web.dll
+C:\Users\ELEKSE-BT\Desktop\esnekpostest\Elekse.NetProject\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\ELEKSE-BT\Desktop\esnekpostest\Elekse.NetProject\bin\Microsoft.ApplicationInsights.dll
+C:\Users\ELEKSE-BT\Desktop\esnekpostest\Elekse.NetProject\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\ELEKSE-BT\Desktop\esnekpostest\Elekse.NetProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ELEKSE-BT\Desktop\esnekpostest\Elekse.NetProject\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ELEKSE-BT\Desktop\esnekpostest\Elekse.NetProject\bin\Newtonsoft.Json.dll
+C:\Users\ELEKSE-BT\Desktop\esnekpostest\Elekse.NetProject\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ELEKSE-BT\Desktop\esnekpostest\Elekse.NetProject\bin\System.Web.Helpers.dll
+C:\Users\ELEKSE-BT\Desktop\esnekpostest\Elekse.NetProject\bin\System.Web.Mvc.dll
+C:\Users\ELEKSE-BT\Desktop\esnekpostest\Elekse.NetProject\bin\System.Web.Optimization.dll
+C:\Users\ELEKSE-BT\Desktop\esnekpostest\Elekse.NetProject\bin\System.Web.Razor.dll
+C:\Users\ELEKSE-BT\Desktop\esnekpostest\Elekse.NetProject\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ELEKSE-BT\Desktop\esnekpostest\Elekse.NetProject\bin\System.Web.WebPages.dll
+C:\Users\ELEKSE-BT\Desktop\esnekpostest\Elekse.NetProject\bin\System.Web.WebPages.Razor.dll
+C:\Users\ELEKSE-BT\Desktop\esnekpostest\Elekse.NetProject\bin\WebGrease.dll
+C:\Users\ELEKSE-BT\Desktop\esnekpostest\Elekse.NetProject\bin\Elekse.Business.pdb
+C:\Users\ELEKSE-BT\Desktop\esnekpostest\Elekse.NetProject\bin\System.Web.Helpers.xml
+C:\Users\ELEKSE-BT\Desktop\esnekpostest\Elekse.NetProject\bin\System.Web.Mvc.xml
+C:\Users\ELEKSE-BT\Desktop\esnekpostest\Elekse.NetProject\bin\System.Web.Optimization.xml
+C:\Users\ELEKSE-BT\Desktop\esnekpostest\Elekse.NetProject\bin\System.Web.Razor.xml
+C:\Users\ELEKSE-BT\Desktop\esnekpostest\Elekse.NetProject\bin\System.Web.WebPages.xml
+C:\Users\ELEKSE-BT\Desktop\esnekpostest\Elekse.NetProject\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ELEKSE-BT\Desktop\esnekpostest\Elekse.NetProject\bin\System.Web.WebPages.Razor.xml
+C:\Users\ELEKSE-BT\Desktop\esnekpostest\Elekse.NetProject\bin\Newtonsoft.Json.xml
+C:\Users\ELEKSE-BT\Desktop\esnekpostest\Elekse.NetProject\bin\Antlr3.Runtime.pdb
+C:\Users\ELEKSE-BT\Desktop\esnekpostest\Elekse.NetProject\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\ELEKSE-BT\Desktop\esnekpostest\Elekse.NetProject\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\ELEKSE-BT\Desktop\esnekpostest\Elekse.NetProject\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\ELEKSE-BT\Desktop\esnekpostest\Elekse.NetProject\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\ELEKSE-BT\Desktop\esnekpostest\Elekse.NetProject\bin\Microsoft.AI.Web.xml
+C:\Users\ELEKSE-BT\Desktop\esnekpostest\Elekse.NetProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ELEKSE-BT\Desktop\esnekpostest\Elekse.NetProject\obj\Debug\Elekse.NetProject.csprojAssemblyReference.cache
+C:\Users\ELEKSE-BT\Desktop\esnekpostest\Elekse.NetProject\obj\Debug\Elekse.NetProject.csproj.CoreCompileInputs.cache
+C:\Users\ELEKSE-BT\Desktop\esnekpostest\Elekse.NetProject\obj\Debug\Elekse.NetProject.csproj.CopyComplete
+C:\Users\ELEKSE-BT\Desktop\esnekpostest\Elekse.NetProject\obj\Debug\Elekse.NetProject.dll
+C:\Users\ELEKSE-BT\Desktop\esnekpostest\Elekse.NetProject\obj\Debug\Elekse.NetProject.pdb
+C:\Users\PC\Desktop\esnekpostest\Elekse.NetProject\bin\ApplicationInsights.config
+C:\Users\PC\Desktop\esnekpostest\Elekse.NetProject\bin\Elekse.NetProject.dll.config
+C:\Users\PC\Desktop\esnekpostest\Elekse.NetProject\bin\Elekse.NetProject.dll
+C:\Users\PC\Desktop\esnekpostest\Elekse.NetProject\bin\Elekse.NetProject.pdb
+C:\Users\PC\Desktop\esnekpostest\Elekse.NetProject\bin\roslyn\csc.exe
+C:\Users\PC\Desktop\esnekpostest\Elekse.NetProject\bin\roslyn\csc.exe.config
+C:\Users\PC\Desktop\esnekpostest\Elekse.NetProject\bin\roslyn\csc.rsp
+C:\Users\PC\Desktop\esnekpostest\Elekse.NetProject\bin\roslyn\csi.exe
+C:\Users\PC\Desktop\esnekpostest\Elekse.NetProject\bin\roslyn\csi.exe.config
+C:\Users\PC\Desktop\esnekpostest\Elekse.NetProject\bin\roslyn\csi.rsp
+C:\Users\PC\Desktop\esnekpostest\Elekse.NetProject\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\PC\Desktop\esnekpostest\Elekse.NetProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\PC\Desktop\esnekpostest\Elekse.NetProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\PC\Desktop\esnekpostest\Elekse.NetProject\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\PC\Desktop\esnekpostest\Elekse.NetProject\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\PC\Desktop\esnekpostest\Elekse.NetProject\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\PC\Desktop\esnekpostest\Elekse.NetProject\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\PC\Desktop\esnekpostest\Elekse.NetProject\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\PC\Desktop\esnekpostest\Elekse.NetProject\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\PC\Desktop\esnekpostest\Elekse.NetProject\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\PC\Desktop\esnekpostest\Elekse.NetProject\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\PC\Desktop\esnekpostest\Elekse.NetProject\bin\roslyn\System.AppContext.dll
+C:\Users\PC\Desktop\esnekpostest\Elekse.NetProject\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\PC\Desktop\esnekpostest\Elekse.NetProject\bin\roslyn\System.Console.dll
+C:\Users\PC\Desktop\esnekpostest\Elekse.NetProject\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\PC\Desktop\esnekpostest\Elekse.NetProject\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\PC\Desktop\esnekpostest\Elekse.NetProject\bin\roslyn\System.IO.Compression.dll
+C:\Users\PC\Desktop\esnekpostest\Elekse.NetProject\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\PC\Desktop\esnekpostest\Elekse.NetProject\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\PC\Desktop\esnekpostest\Elekse.NetProject\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\PC\Desktop\esnekpostest\Elekse.NetProject\bin\roslyn\System.IO.Pipes.dll
+C:\Users\PC\Desktop\esnekpostest\Elekse.NetProject\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\PC\Desktop\esnekpostest\Elekse.NetProject\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\PC\Desktop\esnekpostest\Elekse.NetProject\bin\roslyn\System.Security.Claims.dll
+C:\Users\PC\Desktop\esnekpostest\Elekse.NetProject\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\PC\Desktop\esnekpostest\Elekse.NetProject\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\PC\Desktop\esnekpostest\Elekse.NetProject\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\PC\Desktop\esnekpostest\Elekse.NetProject\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\PC\Desktop\esnekpostest\Elekse.NetProject\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\PC\Desktop\esnekpostest\Elekse.NetProject\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\PC\Desktop\esnekpostest\Elekse.NetProject\bin\roslyn\System.ValueTuple.dll
+C:\Users\PC\Desktop\esnekpostest\Elekse.NetProject\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\PC\Desktop\esnekpostest\Elekse.NetProject\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\PC\Desktop\esnekpostest\Elekse.NetProject\bin\roslyn\System.Xml.XPath.dll
+C:\Users\PC\Desktop\esnekpostest\Elekse.NetProject\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\PC\Desktop\esnekpostest\Elekse.NetProject\bin\roslyn\vbc.exe
+C:\Users\PC\Desktop\esnekpostest\Elekse.NetProject\bin\roslyn\vbc.exe.config
+C:\Users\PC\Desktop\esnekpostest\Elekse.NetProject\bin\roslyn\vbc.rsp
+C:\Users\PC\Desktop\esnekpostest\Elekse.NetProject\bin\roslyn\VBCSCompiler.exe
+C:\Users\PC\Desktop\esnekpostest\Elekse.NetProject\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\PC\Desktop\esnekpostest\Elekse.NetProject\bin\Antlr3.Runtime.dll
+C:\Users\PC\Desktop\esnekpostest\Elekse.NetProject\bin\Elekse.Business.dll
+C:\Users\PC\Desktop\esnekpostest\Elekse.NetProject\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\PC\Desktop\esnekpostest\Elekse.NetProject\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\PC\Desktop\esnekpostest\Elekse.NetProject\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\PC\Desktop\esnekpostest\Elekse.NetProject\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\PC\Desktop\esnekpostest\Elekse.NetProject\bin\Microsoft.AI.Web.dll
+C:\Users\PC\Desktop\esnekpostest\Elekse.NetProject\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\PC\Desktop\esnekpostest\Elekse.NetProject\bin\Microsoft.ApplicationInsights.dll
+C:\Users\PC\Desktop\esnekpostest\Elekse.NetProject\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\PC\Desktop\esnekpostest\Elekse.NetProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\PC\Desktop\esnekpostest\Elekse.NetProject\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\PC\Desktop\esnekpostest\Elekse.NetProject\bin\Newtonsoft.Json.dll
+C:\Users\PC\Desktop\esnekpostest\Elekse.NetProject\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\PC\Desktop\esnekpostest\Elekse.NetProject\bin\System.Web.Helpers.dll
+C:\Users\PC\Desktop\esnekpostest\Elekse.NetProject\bin\System.Web.Mvc.dll
+C:\Users\PC\Desktop\esnekpostest\Elekse.NetProject\bin\System.Web.Optimization.dll
+C:\Users\PC\Desktop\esnekpostest\Elekse.NetProject\bin\System.Web.Razor.dll
+C:\Users\PC\Desktop\esnekpostest\Elekse.NetProject\bin\System.Web.WebPages.Deployment.dll
+C:\Users\PC\Desktop\esnekpostest\Elekse.NetProject\bin\System.Web.WebPages.dll
+C:\Users\PC\Desktop\esnekpostest\Elekse.NetProject\bin\System.Web.WebPages.Razor.dll
+C:\Users\PC\Desktop\esnekpostest\Elekse.NetProject\bin\WebGrease.dll
+C:\Users\PC\Desktop\esnekpostest\Elekse.NetProject\bin\Elekse.Business.pdb
+C:\Users\PC\Desktop\esnekpostest\Elekse.NetProject\bin\System.Web.Helpers.xml
+C:\Users\PC\Desktop\esnekpostest\Elekse.NetProject\bin\System.Web.Mvc.xml
+C:\Users\PC\Desktop\esnekpostest\Elekse.NetProject\bin\System.Web.Optimization.xml
+C:\Users\PC\Desktop\esnekpostest\Elekse.NetProject\bin\System.Web.Razor.xml
+C:\Users\PC\Desktop\esnekpostest\Elekse.NetProject\bin\System.Web.WebPages.xml
+C:\Users\PC\Desktop\esnekpostest\Elekse.NetProject\bin\System.Web.WebPages.Deployment.xml
+C:\Users\PC\Desktop\esnekpostest\Elekse.NetProject\bin\System.Web.WebPages.Razor.xml
+C:\Users\PC\Desktop\esnekpostest\Elekse.NetProject\bin\Newtonsoft.Json.xml
+C:\Users\PC\Desktop\esnekpostest\Elekse.NetProject\bin\Antlr3.Runtime.pdb
+C:\Users\PC\Desktop\esnekpostest\Elekse.NetProject\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\PC\Desktop\esnekpostest\Elekse.NetProject\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\PC\Desktop\esnekpostest\Elekse.NetProject\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\PC\Desktop\esnekpostest\Elekse.NetProject\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\PC\Desktop\esnekpostest\Elekse.NetProject\bin\Microsoft.AI.Web.xml
+C:\Users\PC\Desktop\esnekpostest\Elekse.NetProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\PC\Desktop\esnekpostest\Elekse.NetProject\obj\Debug\Elekse.NetProject.csprojAssemblyReference.cache
+C:\Users\PC\Desktop\esnekpostest\Elekse.NetProject\obj\Debug\Elekse.NetProject.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\esnekpostest\Elekse.NetProject\obj\Debug\Elekse.NetProject.csproj.CopyComplete
+C:\Users\PC\Desktop\esnekpostest\Elekse.NetProject\obj\Debug\Elekse.NetProject.dll
+C:\Users\PC\Desktop\esnekpostest\Elekse.NetProject\obj\Debug\Elekse.NetProject.pdb
+C:\Users\msı\Desktop\esnekpostest\Elekse.NetProject\bin\ApplicationInsights.config
+C:\Users\msı\Desktop\esnekpostest\Elekse.NetProject\bin\Elekse.NetProject.dll.config
+C:\Users\msı\Desktop\esnekpostest\Elekse.NetProject\bin\Elekse.NetProject.dll
+C:\Users\msı\Desktop\esnekpostest\Elekse.NetProject\bin\Elekse.NetProject.pdb
+C:\Users\msı\Desktop\esnekpostest\Elekse.NetProject\bin\roslyn\csc.exe
+C:\Users\msı\Desktop\esnekpostest\Elekse.NetProject\bin\roslyn\csc.exe.config
+C:\Users\msı\Desktop\esnekpostest\Elekse.NetProject\bin\roslyn\csc.rsp
+C:\Users\msı\Desktop\esnekpostest\Elekse.NetProject\bin\roslyn\csi.exe
+C:\Users\msı\Desktop\esnekpostest\Elekse.NetProject\bin\roslyn\csi.exe.config
+C:\Users\msı\Desktop\esnekpostest\Elekse.NetProject\bin\roslyn\csi.rsp
+C:\Users\msı\Desktop\esnekpostest\Elekse.NetProject\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\msı\Desktop\esnekpostest\Elekse.NetProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\msı\Desktop\esnekpostest\Elekse.NetProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\msı\Desktop\esnekpostest\Elekse.NetProject\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\msı\Desktop\esnekpostest\Elekse.NetProject\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\msı\Desktop\esnekpostest\Elekse.NetProject\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\msı\Desktop\esnekpostest\Elekse.NetProject\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\msı\Desktop\esnekpostest\Elekse.NetProject\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\msı\Desktop\esnekpostest\Elekse.NetProject\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\msı\Desktop\esnekpostest\Elekse.NetProject\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\msı\Desktop\esnekpostest\Elekse.NetProject\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\msı\Desktop\esnekpostest\Elekse.NetProject\bin\roslyn\System.AppContext.dll
+C:\Users\msı\Desktop\esnekpostest\Elekse.NetProject\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\msı\Desktop\esnekpostest\Elekse.NetProject\bin\roslyn\System.Console.dll
+C:\Users\msı\Desktop\esnekpostest\Elekse.NetProject\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\msı\Desktop\esnekpostest\Elekse.NetProject\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\msı\Desktop\esnekpostest\Elekse.NetProject\bin\roslyn\System.IO.Compression.dll
+C:\Users\msı\Desktop\esnekpostest\Elekse.NetProject\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\msı\Desktop\esnekpostest\Elekse.NetProject\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\msı\Desktop\esnekpostest\Elekse.NetProject\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\msı\Desktop\esnekpostest\Elekse.NetProject\bin\roslyn\System.IO.Pipes.dll
+C:\Users\msı\Desktop\esnekpostest\Elekse.NetProject\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\msı\Desktop\esnekpostest\Elekse.NetProject\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\msı\Desktop\esnekpostest\Elekse.NetProject\bin\roslyn\System.Security.Claims.dll
+C:\Users\msı\Desktop\esnekpostest\Elekse.NetProject\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\msı\Desktop\esnekpostest\Elekse.NetProject\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\msı\Desktop\esnekpostest\Elekse.NetProject\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\msı\Desktop\esnekpostest\Elekse.NetProject\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\msı\Desktop\esnekpostest\Elekse.NetProject\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\msı\Desktop\esnekpostest\Elekse.NetProject\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\msı\Desktop\esnekpostest\Elekse.NetProject\bin\roslyn\System.ValueTuple.dll
+C:\Users\msı\Desktop\esnekpostest\Elekse.NetProject\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\msı\Desktop\esnekpostest\Elekse.NetProject\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\msı\Desktop\esnekpostest\Elekse.NetProject\bin\roslyn\System.Xml.XPath.dll
+C:\Users\msı\Desktop\esnekpostest\Elekse.NetProject\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\msı\Desktop\esnekpostest\Elekse.NetProject\bin\roslyn\vbc.exe
+C:\Users\msı\Desktop\esnekpostest\Elekse.NetProject\bin\roslyn\vbc.exe.config
+C:\Users\msı\Desktop\esnekpostest\Elekse.NetProject\bin\roslyn\vbc.rsp
+C:\Users\msı\Desktop\esnekpostest\Elekse.NetProject\bin\roslyn\VBCSCompiler.exe
+C:\Users\msı\Desktop\esnekpostest\Elekse.NetProject\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\msı\Desktop\esnekpostest\Elekse.NetProject\bin\Antlr3.Runtime.dll
+C:\Users\msı\Desktop\esnekpostest\Elekse.NetProject\bin\Elekse.Business.dll
+C:\Users\msı\Desktop\esnekpostest\Elekse.NetProject\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\msı\Desktop\esnekpostest\Elekse.NetProject\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\msı\Desktop\esnekpostest\Elekse.NetProject\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\msı\Desktop\esnekpostest\Elekse.NetProject\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\msı\Desktop\esnekpostest\Elekse.NetProject\bin\Microsoft.AI.Web.dll
+C:\Users\msı\Desktop\esnekpostest\Elekse.NetProject\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\msı\Desktop\esnekpostest\Elekse.NetProject\bin\Microsoft.ApplicationInsights.dll
+C:\Users\msı\Desktop\esnekpostest\Elekse.NetProject\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\msı\Desktop\esnekpostest\Elekse.NetProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\msı\Desktop\esnekpostest\Elekse.NetProject\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\msı\Desktop\esnekpostest\Elekse.NetProject\bin\Newtonsoft.Json.dll
+C:\Users\msı\Desktop\esnekpostest\Elekse.NetProject\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\msı\Desktop\esnekpostest\Elekse.NetProject\bin\System.Web.Helpers.dll
+C:\Users\msı\Desktop\esnekpostest\Elekse.NetProject\bin\System.Web.Mvc.dll
+C:\Users\msı\Desktop\esnekpostest\Elekse.NetProject\bin\System.Web.Optimization.dll
+C:\Users\msı\Desktop\esnekpostest\Elekse.NetProject\bin\System.Web.Razor.dll
+C:\Users\msı\Desktop\esnekpostest\Elekse.NetProject\bin\System.Web.WebPages.Deployment.dll
+C:\Users\msı\Desktop\esnekpostest\Elekse.NetProject\bin\System.Web.WebPages.dll
+C:\Users\msı\Desktop\esnekpostest\Elekse.NetProject\bin\System.Web.WebPages.Razor.dll
+C:\Users\msı\Desktop\esnekpostest\Elekse.NetProject\bin\WebGrease.dll
+C:\Users\msı\Desktop\esnekpostest\Elekse.NetProject\bin\Elekse.Business.pdb
+C:\Users\msı\Desktop\esnekpostest\Elekse.NetProject\bin\System.Web.Helpers.xml
+C:\Users\msı\Desktop\esnekpostest\Elekse.NetProject\bin\System.Web.Mvc.xml
+C:\Users\msı\Desktop\esnekpostest\Elekse.NetProject\bin\System.Web.Optimization.xml
+C:\Users\msı\Desktop\esnekpostest\Elekse.NetProject\bin\System.Web.Razor.xml
+C:\Users\msı\Desktop\esnekpostest\Elekse.NetProject\bin\System.Web.WebPages.xml
+C:\Users\msı\Desktop\esnekpostest\Elekse.NetProject\bin\System.Web.WebPages.Deployment.xml
+C:\Users\msı\Desktop\esnekpostest\Elekse.NetProject\bin\System.Web.WebPages.Razor.xml
+C:\Users\msı\Desktop\esnekpostest\Elekse.NetProject\bin\Newtonsoft.Json.xml
+C:\Users\msı\Desktop\esnekpostest\Elekse.NetProject\bin\Antlr3.Runtime.pdb
+C:\Users\msı\Desktop\esnekpostest\Elekse.NetProject\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\msı\Desktop\esnekpostest\Elekse.NetProject\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\msı\Desktop\esnekpostest\Elekse.NetProject\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\msı\Desktop\esnekpostest\Elekse.NetProject\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\msı\Desktop\esnekpostest\Elekse.NetProject\bin\Microsoft.AI.Web.xml
+C:\Users\msı\Desktop\esnekpostest\Elekse.NetProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\msı\Desktop\esnekpostest\Elekse.NetProject\obj\Debug\Elekse.NetProject.csprojAssemblyReference.cache
+C:\Users\msı\Desktop\esnekpostest\Elekse.NetProject\obj\Debug\Elekse.NetProject.csproj.CopyComplete
+C:\Users\msı\Desktop\esnekpostest\Elekse.NetProject\obj\Debug\Elekse.NetProject.dll
+C:\Users\msı\Desktop\esnekpostest\Elekse.NetProject\obj\Debug\Elekse.NetProject.pdb
+D:\Davysoft\Belgeler\esnekpostest\Elekse.NetProject\bin\ApplicationInsights.config
+D:\Davysoft\Belgeler\esnekpostest\Elekse.NetProject\bin\Elekse.NetProject.dll.config
+D:\Davysoft\Belgeler\esnekpostest\Elekse.NetProject\bin\Elekse.NetProject.dll
+D:\Davysoft\Belgeler\esnekpostest\Elekse.NetProject\bin\Elekse.NetProject.pdb
+D:\Davysoft\Belgeler\esnekpostest\Elekse.NetProject\bin\roslyn\csc.exe
+D:\Davysoft\Belgeler\esnekpostest\Elekse.NetProject\bin\roslyn\csc.exe.config
+D:\Davysoft\Belgeler\esnekpostest\Elekse.NetProject\bin\roslyn\csc.rsp
+D:\Davysoft\Belgeler\esnekpostest\Elekse.NetProject\bin\roslyn\csi.exe
+D:\Davysoft\Belgeler\esnekpostest\Elekse.NetProject\bin\roslyn\csi.exe.config
+D:\Davysoft\Belgeler\esnekpostest\Elekse.NetProject\bin\roslyn\csi.rsp
+D:\Davysoft\Belgeler\esnekpostest\Elekse.NetProject\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Davysoft\Belgeler\esnekpostest\Elekse.NetProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Davysoft\Belgeler\esnekpostest\Elekse.NetProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Davysoft\Belgeler\esnekpostest\Elekse.NetProject\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Davysoft\Belgeler\esnekpostest\Elekse.NetProject\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Davysoft\Belgeler\esnekpostest\Elekse.NetProject\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Davysoft\Belgeler\esnekpostest\Elekse.NetProject\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Davysoft\Belgeler\esnekpostest\Elekse.NetProject\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Davysoft\Belgeler\esnekpostest\Elekse.NetProject\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Davysoft\Belgeler\esnekpostest\Elekse.NetProject\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Davysoft\Belgeler\esnekpostest\Elekse.NetProject\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Davysoft\Belgeler\esnekpostest\Elekse.NetProject\bin\roslyn\System.AppContext.dll
+D:\Davysoft\Belgeler\esnekpostest\Elekse.NetProject\bin\roslyn\System.Collections.Immutable.dll
+D:\Davysoft\Belgeler\esnekpostest\Elekse.NetProject\bin\roslyn\System.Console.dll
+D:\Davysoft\Belgeler\esnekpostest\Elekse.NetProject\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Davysoft\Belgeler\esnekpostest\Elekse.NetProject\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Davysoft\Belgeler\esnekpostest\Elekse.NetProject\bin\roslyn\System.IO.Compression.dll
+D:\Davysoft\Belgeler\esnekpostest\Elekse.NetProject\bin\roslyn\System.IO.FileSystem.dll
+D:\Davysoft\Belgeler\esnekpostest\Elekse.NetProject\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Davysoft\Belgeler\esnekpostest\Elekse.NetProject\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\Davysoft\Belgeler\esnekpostest\Elekse.NetProject\bin\roslyn\System.IO.Pipes.dll
+D:\Davysoft\Belgeler\esnekpostest\Elekse.NetProject\bin\roslyn\System.Reflection.Metadata.dll
+D:\Davysoft\Belgeler\esnekpostest\Elekse.NetProject\bin\roslyn\System.Security.AccessControl.dll
+D:\Davysoft\Belgeler\esnekpostest\Elekse.NetProject\bin\roslyn\System.Security.Claims.dll
+D:\Davysoft\Belgeler\esnekpostest\Elekse.NetProject\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Davysoft\Belgeler\esnekpostest\Elekse.NetProject\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Davysoft\Belgeler\esnekpostest\Elekse.NetProject\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Davysoft\Belgeler\esnekpostest\Elekse.NetProject\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Davysoft\Belgeler\esnekpostest\Elekse.NetProject\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Davysoft\Belgeler\esnekpostest\Elekse.NetProject\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Davysoft\Belgeler\esnekpostest\Elekse.NetProject\bin\roslyn\System.ValueTuple.dll
+D:\Davysoft\Belgeler\esnekpostest\Elekse.NetProject\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Davysoft\Belgeler\esnekpostest\Elekse.NetProject\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Davysoft\Belgeler\esnekpostest\Elekse.NetProject\bin\roslyn\System.Xml.XPath.dll
+D:\Davysoft\Belgeler\esnekpostest\Elekse.NetProject\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Davysoft\Belgeler\esnekpostest\Elekse.NetProject\bin\roslyn\vbc.exe
+D:\Davysoft\Belgeler\esnekpostest\Elekse.NetProject\bin\roslyn\vbc.exe.config
+D:\Davysoft\Belgeler\esnekpostest\Elekse.NetProject\bin\roslyn\vbc.rsp
+D:\Davysoft\Belgeler\esnekpostest\Elekse.NetProject\bin\roslyn\VBCSCompiler.exe
+D:\Davysoft\Belgeler\esnekpostest\Elekse.NetProject\bin\roslyn\VBCSCompiler.exe.config
+D:\Davysoft\Belgeler\esnekpostest\Elekse.NetProject\bin\Antlr3.Runtime.dll
+D:\Davysoft\Belgeler\esnekpostest\Elekse.NetProject\bin\Elekse.Business.dll
+D:\Davysoft\Belgeler\esnekpostest\Elekse.NetProject\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Davysoft\Belgeler\esnekpostest\Elekse.NetProject\bin\Microsoft.AI.DependencyCollector.dll
+D:\Davysoft\Belgeler\esnekpostest\Elekse.NetProject\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Davysoft\Belgeler\esnekpostest\Elekse.NetProject\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Davysoft\Belgeler\esnekpostest\Elekse.NetProject\bin\Microsoft.AI.Web.dll
+D:\Davysoft\Belgeler\esnekpostest\Elekse.NetProject\bin\Microsoft.AI.WindowsServer.dll
+D:\Davysoft\Belgeler\esnekpostest\Elekse.NetProject\bin\Microsoft.ApplicationInsights.dll
+D:\Davysoft\Belgeler\esnekpostest\Elekse.NetProject\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+D:\Davysoft\Belgeler\esnekpostest\Elekse.NetProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Davysoft\Belgeler\esnekpostest\Elekse.NetProject\bin\Microsoft.Web.Infrastructure.dll
+D:\Davysoft\Belgeler\esnekpostest\Elekse.NetProject\bin\Newtonsoft.Json.dll
+D:\Davysoft\Belgeler\esnekpostest\Elekse.NetProject\bin\System.Diagnostics.DiagnosticSource.dll
+D:\Davysoft\Belgeler\esnekpostest\Elekse.NetProject\bin\System.Web.Helpers.dll
+D:\Davysoft\Belgeler\esnekpostest\Elekse.NetProject\bin\System.Web.Mvc.dll
+D:\Davysoft\Belgeler\esnekpostest\Elekse.NetProject\bin\System.Web.Optimization.dll
+D:\Davysoft\Belgeler\esnekpostest\Elekse.NetProject\bin\System.Web.Razor.dll
+D:\Davysoft\Belgeler\esnekpostest\Elekse.NetProject\bin\System.Web.WebPages.Deployment.dll
+D:\Davysoft\Belgeler\esnekpostest\Elekse.NetProject\bin\System.Web.WebPages.dll
+D:\Davysoft\Belgeler\esnekpostest\Elekse.NetProject\bin\System.Web.WebPages.Razor.dll
+D:\Davysoft\Belgeler\esnekpostest\Elekse.NetProject\bin\WebGrease.dll
+D:\Davysoft\Belgeler\esnekpostest\Elekse.NetProject\bin\Elekse.Business.pdb
+D:\Davysoft\Belgeler\esnekpostest\Elekse.NetProject\bin\System.Web.Helpers.xml
+D:\Davysoft\Belgeler\esnekpostest\Elekse.NetProject\bin\System.Web.Mvc.xml
+D:\Davysoft\Belgeler\esnekpostest\Elekse.NetProject\bin\System.Web.Optimization.xml
+D:\Davysoft\Belgeler\esnekpostest\Elekse.NetProject\bin\System.Web.Razor.xml
+D:\Davysoft\Belgeler\esnekpostest\Elekse.NetProject\bin\System.Web.WebPages.xml
+D:\Davysoft\Belgeler\esnekpostest\Elekse.NetProject\bin\System.Web.WebPages.Deployment.xml
+D:\Davysoft\Belgeler\esnekpostest\Elekse.NetProject\bin\System.Web.WebPages.Razor.xml
+D:\Davysoft\Belgeler\esnekpostest\Elekse.NetProject\bin\Newtonsoft.Json.xml
+D:\Davysoft\Belgeler\esnekpostest\Elekse.NetProject\bin\Antlr3.Runtime.pdb
+D:\Davysoft\Belgeler\esnekpostest\Elekse.NetProject\bin\System.Diagnostics.DiagnosticSource.xml
+D:\Davysoft\Belgeler\esnekpostest\Elekse.NetProject\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+D:\Davysoft\Belgeler\esnekpostest\Elekse.NetProject\bin\Microsoft.AI.DependencyCollector.xml
+D:\Davysoft\Belgeler\esnekpostest\Elekse.NetProject\bin\Microsoft.AI.WindowsServer.xml
+D:\Davysoft\Belgeler\esnekpostest\Elekse.NetProject\bin\Microsoft.AI.Web.xml
+D:\Davysoft\Belgeler\esnekpostest\Elekse.NetProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Davysoft\Belgeler\esnekpostest\Elekse.NetProject\obj\Debug\Elekse.NetProject.csprojAssemblyReference.cache
+D:\Davysoft\Belgeler\esnekpostest\Elekse.NetProject\obj\Debug\Elekse.NetProject.csproj.CopyComplete
+D:\Davysoft\Belgeler\esnekpostest\Elekse.NetProject\obj\Debug\Elekse.NetProject.dll
+D:\Davysoft\Belgeler\esnekpostest\Elekse.NetProject\obj\Debug\Elekse.NetProject.pdb

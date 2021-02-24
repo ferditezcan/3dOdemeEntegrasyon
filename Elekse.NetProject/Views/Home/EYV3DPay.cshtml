@@ -1,0 +1,144 @@
+﻿@using System.Web.Script.Serialization
+@using System.Xml.Linq
+@{
+    ViewBag.Title = "EYV3DPay";
+}
+
+<!-- BEGIN CONTENT BODY -->
+
+<div class="page-bar">
+</div>
+<!-- END PAGE BAR -->
+<!-- BEGIN PAGE TITLE-->
+<h1 class="page-title">
+    EYV3DPay
+    <small>(3D Ödeme İşlemi)</small>
+</h1>
+<!-- END PAGE TITLE-->
+<!-- END PAGE HEADER-->
+<div class="note note-info">
+    <p>Bu sayfada EleksePOS üzerinden test ödemesi gerçekleştirebilirsiniz.</p>
+</div>
+<fieldset>
+    <legend><label style="font-weight:bold;width:250px;">Ürün Bilgileri</label></legend>
+    <table class="table">
+        <thead>
+            <tr>
+                <th>
+                    Ürün
+                </th>
+                <th>
+                    Kod
+                </th>
+                <th>
+                    Adet
+                </th>
+                <th>
+                    KDV
+                </th>
+                <th>
+                    Birim Fiyat
+                </th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>
+                    Test Ürünü
+                </td>
+                <td>
+                    001
+                </td>
+                <td>
+                    1
+                </td>
+                <td>
+                    18
+                </td>
+                <td>
+                    15 TL
+                </td>
+            </tr>
+
+        </tbody>
+    </table>
+</fieldset>
+<div class="row">
+    <div class="col-md-6">
+        <fieldset>
+            <legend><label style="font-weight:bold;width:250px;">Müşteri Bilgileri</label></legend>
+            <label style="font-weight:bold;">Ad :</label> Ad<br>
+            <label style="font-weight:bold;">Soyad :</label> Soyad <br>
+            <label style="font-weight:bold;">E-Posta :</label> pos@elekse.com <br>
+            <label style="font-weight:bold;">Telefon Numarası:</label> 02122356600 <br>
+            <label style="font-weight:bold;">Adres :</label>Adres<br>
+            <label style="font-weight:bold;">Şehir :</label> İstanbul <br>
+            <label style="font-weight:bold;">İlçe :</label> Şişli <br>
+        </fieldset>
+    </div>
+    <div class="col-md-6">
+
+    </div>
+</div>
+<br />
+<form method="post" class="form-horizontal">
+    <fieldset>
+
+        <!-- Form Name -->
+        <legend><label style="font-weight:bold;width:250px;">Kart Bilgileriyle Ödeme</label></legend>
+
+
+        <!-- Text input-->
+        <div class="form-group">
+            <label class="col-md-4 control-label" for="">Kart Sahibi Adı Soyadı:</label>
+            <div class="col-md-4">
+                <input value="000" name="CardCustomerName" id="cardCustomerName" class="form-control input-md">
+
+            </div>
+        </div>
+        <div class="form-group">
+            <label class="col-md-4 control-label" for="">  Kart Numarası:</label>
+            <div class="col-md-4">
+                <input value="4159562885391991" name="CardNumber" id="cardNumber" class="form-control input-md">
+            </div>
+        </div>
+
+        <div class="form-group">
+            <label class="col-md-4 control-label" for="">  Son Kullanma Tarihi Ay/Yıl: </label>
+            <div class="col-md-4">
+                <input value="12" name="CardExpiresMonth" id="cardExpiresMonth" class="form-control input-md" width="50px">
+                <input value="2023" name="CardExpiresYear" id="cardExpiresYear" class="form-control input-md" width="50px">
+
+            </div>
+        </div>
+
+        <div class="form-group">
+            <label class="col-md-4 control-label" for="">  CVC: </label>
+            <div class="col-md-4">
+                <input value="000" name="CardCVC" id="cardCVC" class="form-control input-md">
+
+            </div>
+        </div>
+
+
+    </fieldset>
+    <!-- Button -->
+    <div class="form-group">
+        <label class="col-md-4 control-label" for=""></label>
+        <div class="col-md-4">
+            <button name="" onclick="EYV3DPay()" class="btn btn-primary">3D Ödeme Yap</button>
+        </div>
+    </div>
+    <pre>
+        @{
+            if (Model!=null)
+            {
+                var json = new JavaScriptSerializer().Serialize(Model);
+                 @Html.Raw(Html.Encode(json));
+
+            }
+
+        }
+</pre>
+</form>
+<!-- END CONTENT BODY -->

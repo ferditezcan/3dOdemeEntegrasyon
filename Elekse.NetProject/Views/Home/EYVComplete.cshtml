@@ -1,0 +1,44 @@
+﻿@model Elekse.Business.EYVCompleteResponse
+@{
+    ViewBag.Title = "EYVComplete";
+}
+
+<div class="page-bar">
+</div>
+<!-- END PAGE BAR -->
+<!-- BEGIN PAGE TITLE-->
+<h1 class="page-title">
+    EYVComplete
+    <small>(3D Ödeme Sonuç Sayfası)</small>
+</h1>
+<!-- END PAGE TITLE-->
+<!-- END PAGE HEADER-->
+<div class="note note-info">
+    @if (Model.RETURN_CODE == "0")
+    {
+        <p>Ödeme İşleminiz Başarıyla Gerçekleştirilmiştir</p>
+    }
+    else
+    {
+        <p>Ödeme İşleminiz Başarısız</p>
+    }
+
+</div>
+<div class="row">
+    <div class="col-md-6">
+        <fieldset>
+            <legend><label style="font-weight:bold;width:250px;">BACK_URL Adresine Dönen Bilgiler</label></legend>
+            <label style="font-weight:bold;">STATUS :</label> @Model.STATUS<br>
+            <label style="font-weight:bold;">RETURN_MESSAGE :</label> @Model.RETURN_MESSAGE <br>
+            <label style="font-weight:bold;">RETURN_CODE :</label> @Model.RETURN_CODE <br>
+            <label style="font-weight:bold;">REFNO :</label> @Model.REFNO <br>
+            <label style="font-weight:bold;">ORDER_REF_NUMBER :</label> @Model.ORDER_REF_NUMBER<br>
+            <label style="font-weight:bold;">HASH :</label> @Model.HASH <br>
+            <label style="font-weight:bold;">DATE :</label> @Model.DATE <br>
+        </fieldset>
+    </div>
+    <div class="col-md-6">
+
+    </div>
+</div>
+

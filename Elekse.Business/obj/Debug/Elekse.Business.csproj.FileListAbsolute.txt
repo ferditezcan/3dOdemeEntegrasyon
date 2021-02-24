@@ -1,0 +1,34 @@
+C:\Users\ELEKSE-BT\source\repos\Elekse\Elekse.Business\bin\Debug\Elekse.Business.dll
+C:\Users\ELEKSE-BT\source\repos\Elekse\Elekse.Business\bin\Debug\Elekse.Business.pdb
+C:\Users\ELEKSE-BT\source\repos\Elekse\Elekse.Business\obj\Debug\Elekse.Business.csprojAssemblyReference.cache
+C:\Users\ELEKSE-BT\source\repos\Elekse\Elekse.Business\obj\Debug\Elekse.Business.csproj.CoreCompileInputs.cache
+C:\Users\ELEKSE-BT\source\repos\Elekse\Elekse.Business\obj\Debug\Elekse.Business.dll
+C:\Users\ELEKSE-BT\source\repos\Elekse\Elekse.Business\obj\Debug\Elekse.Business.pdb
+D:\TFS\ELEKSE\Elekse (SanalPos Test Projesi)\Elekse.Business\bin\Debug\Elekse.Business.dll
+D:\TFS\ELEKSE\Elekse (SanalPos Test Projesi)\Elekse.Business\bin\Debug\Elekse.Business.pdb
+D:\TFS\ELEKSE\Elekse (SanalPos Test Projesi)\Elekse.Business\obj\Debug\Elekse.Business.csprojAssemblyReference.cache
+D:\TFS\ELEKSE\Elekse (SanalPos Test Projesi)\Elekse.Business\obj\Debug\Elekse.Business.csproj.CoreCompileInputs.cache
+D:\TFS\ELEKSE\Elekse (SanalPos Test Projesi)\Elekse.Business\obj\Debug\Elekse.Business.dll
+D:\TFS\ELEKSE\Elekse (SanalPos Test Projesi)\Elekse.Business\obj\Debug\Elekse.Business.pdb
+C:\Users\ELEKSE-BT\Desktop\esnekpostest\Elekse.Business\bin\Debug\Elekse.Business.dll
+C:\Users\ELEKSE-BT\Desktop\esnekpostest\Elekse.Business\bin\Debug\Elekse.Business.pdb
+C:\Users\ELEKSE-BT\Desktop\esnekpostest\Elekse.Business\obj\Debug\Elekse.Business.csprojAssemblyReference.cache
+C:\Users\ELEKSE-BT\Desktop\esnekpostest\Elekse.Business\obj\Debug\Elekse.Business.csproj.CoreCompileInputs.cache
+C:\Users\ELEKSE-BT\Desktop\esnekpostest\Elekse.Business\obj\Debug\Elekse.Business.dll
+C:\Users\ELEKSE-BT\Desktop\esnekpostest\Elekse.Business\obj\Debug\Elekse.Business.pdb
+C:\Users\PC\Desktop\esnekpostest\Elekse.Business\bin\Debug\Elekse.Business.dll
+C:\Users\PC\Desktop\esnekpostest\Elekse.Business\bin\Debug\Elekse.Business.pdb
+C:\Users\PC\Desktop\esnekpostest\Elekse.Business\obj\Debug\Elekse.Business.csprojAssemblyReference.cache
+C:\Users\PC\Desktop\esnekpostest\Elekse.Business\obj\Debug\Elekse.Business.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\esnekpostest\Elekse.Business\obj\Debug\Elekse.Business.dll
+C:\Users\PC\Desktop\esnekpostest\Elekse.Business\obj\Debug\Elekse.Business.pdb
+C:\Users\msı\Desktop\esnekpostest\Elekse.Business\bin\Debug\Elekse.Business.dll
+C:\Users\msı\Desktop\esnekpostest\Elekse.Business\bin\Debug\Elekse.Business.pdb
+C:\Users\msı\Desktop\esnekpostest\Elekse.Business\obj\Debug\Elekse.Business.csprojAssemblyReference.cache
+C:\Users\msı\Desktop\esnekpostest\Elekse.Business\obj\Debug\Elekse.Business.dll
+C:\Users\msı\Desktop\esnekpostest\Elekse.Business\obj\Debug\Elekse.Business.pdb
+D:\Davysoft\Belgeler\esnekpostest\Elekse.Business\bin\Debug\Elekse.Business.dll
+D:\Davysoft\Belgeler\esnekpostest\Elekse.Business\bin\Debug\Elekse.Business.pdb
+D:\Davysoft\Belgeler\esnekpostest\Elekse.Business\obj\Debug\Elekse.Business.csprojAssemblyReference.cache
+D:\Davysoft\Belgeler\esnekpostest\Elekse.Business\obj\Debug\Elekse.Business.dll
+D:\Davysoft\Belgeler\esnekpostest\Elekse.Business\obj\Debug\Elekse.Business.pdb
